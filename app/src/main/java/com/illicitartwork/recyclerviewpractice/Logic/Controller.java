@@ -4,11 +4,6 @@ import com.illicitartwork.recyclerviewpractice.Data.DataSourceInterface;
 import com.illicitartwork.recyclerviewpractice.Data.ItemDetail;
 import com.illicitartwork.recyclerviewpractice.View.ViewInterface;
 
-/**
- * Created by illic on 9/20/2017.
- */
-
-
 public class Controller {
 
     private ViewInterface view;

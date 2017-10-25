@@ -48,7 +48,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="@+id/lbl_dateTime"
         app:layout_constraintRight_toRightOf="parent"
-        tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod mpor incididunt ut labore et dolore magna aliqua. Ut enim ad mini" />
+        tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod mpor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad mini" />
 
     <TextView
         android:id="@+id/lbl_dateTime"
